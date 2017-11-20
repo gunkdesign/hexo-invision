@@ -7,7 +7,7 @@ A Hexo tag to embed Invision App links in posts
 
 Install using [npm][npm-url].
 
-    $ npm install hexo-invison --save
+    $ npm install hexo-invision --save
 
 ## Usage
 
@@ -29,8 +29,4 @@ MIT
 [hexo-invision]: https://github.com/gunkdesign/hexo-invision
 
 [Hexo]: http://hexo.io/
-[CodePen]: http://codepen.io/
-[Embedded Pen]: http://blog.codepen.io/documentation/features/embedded-pens/
-=======
-# hexo-invision
 Hexo tag to embed code prototype from Invisionapp
