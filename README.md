@@ -19,7 +19,7 @@ Add your Invision embed using with following syntax:
 ## How to get arguments from Invision embed
 In your project click on the ability to embed > iframe and copy the code and size values
 
-![alt text](![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Embed Screenshot") "Embed Screenshot")
+![embed example](http://i1007.photobucket.com/albums/af193/gunkdesign/invision-embed_zps0jbiac7v.png)
 
 ## License
 MIT
