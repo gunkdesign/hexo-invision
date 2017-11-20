@@ -19,14 +19,13 @@ Add your Invision embed using with following syntax:
 ## How to get arguments from Invision embed
 In your project click on the ability to embed > iframe and copy the code and size values
 
+![alt text](![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Embed Screenshot") "Embed Screenshot")
 
 ## License
 MIT
 
-[![NPM downloads][npm-downloads]][npm-url]
+[homepage]: (https://github.com/gunkdesign/hexo-invision)
+[hexo-invision]: (https://github.com/gunkdesign/hexo-invision)
 
-[homepage]: https://github.com/gunkdesign/hexo-invision
-[hexo-invision]: https://github.com/gunkdesign/hexo-invision
-
-[Hexo]: http://hexo.io/
+[Hexo]: (http://hexo.io/)
 Hexo tag to embed code prototype from Invisionapp
