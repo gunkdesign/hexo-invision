@@ -1,0 +1,26 @@
+{
+  "name": "hexo-invision",
+  "version": "0.0.1",
+  "description": "Hexo tag to embed code prototype from invision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gunkdesign/hexo-invision"
+  },
+  "keywords": [
+    "hexo",
+    "plugin",
+    "tag",
+    "invision",
+    "gunkdesign"
+  ],
+  "author": "Andy Cetnarskyj <andy@gunkdesign.co.uk> (http://andrewcetnarskyj.co.uk)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gunkdesign/hexo-invision/issues"
+  },
+  "homepage": "https://github.com/gunkdesign/hexo-invision"
+}
